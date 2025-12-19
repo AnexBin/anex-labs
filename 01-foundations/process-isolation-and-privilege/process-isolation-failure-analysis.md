@@ -334,8 +334,6 @@ AI red teaming = **isolation & trust analysis**.
 
 ## 10. Personal Insights
 
-(To be filled by Anex)
-
 * What assumptions surprised me?
 * Where did I underestimate complexity?
 * How does this change how I view exploits?
